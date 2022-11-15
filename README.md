@@ -1,4 +1,4 @@
-# ** STATUS WORKING ON **
+# ** STATUS WORKING ON *
 
 # ALX Simple Shell Team Project
 # Simple_shell
